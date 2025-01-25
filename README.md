@@ -16,7 +16,6 @@ The **ForecastDate** class provides the ability to forecast a future date and mo
 - ForecastCriteriaEnum.SUNDAY&emsp;&emsp;&emsp;&ensp;&ensp;(avoid SUNDAY)
 - ForecastCriteriaEnum.WEEKEND&emsp;&emsp;&emsp;(avoid WEEKEND)
 - ForecastCriteriaEnum.ALL_CRITERIA&emsp;(avoid HOLIDAY and WEEKEND)
-- ForecastCriteriaEnum.NONE 
 
 ### Forecast Direction
 - ForecastDirectionEnum.BEFORE (adjust date to avoid before the specified date)
