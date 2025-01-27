@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.wrk.date.forecast","l":"ForecastCriteriaEnum"},{"p":"org.wrk.date.forecast","l":"ForecastDate"},{"p":"org.wrk.date.forecast","l":"ForecastDirectionEnum"},{"p":"org.wrk.date.forecast","l":"ForecastRules"}];updateSearchResults();
